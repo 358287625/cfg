@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="cfg"
+  id="myeclipse.1496716649567"
+  context-root="/cfg"
+  j2ee-spec="6.0"
+  archive="cfg.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
